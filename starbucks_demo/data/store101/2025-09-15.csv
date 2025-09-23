@@ -1,0 +1,41 @@
+date,order_id,item,category,revenue
+2025-09-15,2000,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,2001,Caffè Latte,Drink,5.25
+2025-09-15,2002,Cold Brew,Drink,4.75
+2025-09-15,2003,Caramel Macchiato,Drink,5.95
+2025-09-15,2004,Cold Brew,Drink,4.75
+2025-09-15,2005,Caramel Macchiato,Drink,5.95
+2025-09-15,2006,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,2007,Spinach Feta Wrap,Food,4.95
+2025-09-15,2008,Turkey Pesto Panini,Food,13.9
+2025-09-15,2009,Blueberry Muffin,Food,3.45
+2025-09-15,2010,Caffè Latte,Drink,5.25
+2025-09-15,2011,Caramel Macchiato,Drink,11.9
+2025-09-15,2012,Blueberry Muffin,Food,3.45
+2025-09-15,2013,Blueberry Muffin,Food,3.45
+2025-09-15,2014,Blueberry Muffin,Food,3.45
+2025-09-15,2015,Americano,Drink,3.95
+2025-09-15,2016,Turkey Pesto Panini,Food,13.9
+2025-09-15,2017,Americano,Drink,3.95
+2025-09-15,2018,Americano,Drink,3.95
+2025-09-15,2019,Turkey Pesto Panini,Food,6.95
+2025-09-15,2020,Turkey Pesto Panini,Food,6.95
+2025-09-15,2021,Turkey Pesto Panini,Food,13.9
+2025-09-15,2022,Blueberry Muffin,Food,3.45
+2025-09-15,2023,Croissant,Food,3.25
+2025-09-15,2024,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,2025,Turkey Pesto Panini,Food,6.95
+2025-09-15,2026,Matcha Latte,Drink,5.45
+2025-09-15,2027,Pumpkin Spice Latte,Seasonal,12.5
+2025-09-15,2028,Caramel Macchiato,Drink,5.95
+2025-09-15,2029,Spinach Feta Wrap,Food,4.95
+2025-09-15,2030,Croissant,Food,3.25
+2025-09-15,2031,Caffè Latte,Drink,5.25
+2025-09-15,2032,Croissant,Food,3.25
+2025-09-15,2033,Caffè Latte,Drink,5.25
+2025-09-15,2034,Caffè Latte,Drink,5.25
+2025-09-15,2035,Croissant,Food,3.25
+2025-09-15,2036,Matcha Latte,Drink,5.45
+2025-09-15,2037,Matcha Latte,Drink,10.9
+2025-09-15,2038,Blueberry Muffin,Food,3.45
+2025-09-15,2039,Caramel Macchiato,Drink,11.9

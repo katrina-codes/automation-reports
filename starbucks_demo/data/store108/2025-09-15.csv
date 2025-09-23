@@ -1,0 +1,41 @@
+date,order_id,item,category,revenue
+2025-09-15,110000,Pumpkin Spice Latte,Seasonal,12.5
+2025-09-15,110001,Americano,Drink,3.95
+2025-09-15,110002,Matcha Latte,Drink,10.9
+2025-09-15,110003,Cold Brew,Drink,4.75
+2025-09-15,110004,Blueberry Muffin,Food,3.45
+2025-09-15,110005,Matcha Latte,Drink,5.45
+2025-09-15,110006,Matcha Latte,Drink,10.9
+2025-09-15,110007,Blueberry Muffin,Food,3.45
+2025-09-15,110008,Cold Brew,Drink,4.75
+2025-09-15,110009,Croissant,Food,3.25
+2025-09-15,110010,Caramel Macchiato,Drink,5.95
+2025-09-15,110011,Croissant,Food,3.25
+2025-09-15,110012,Cold Brew,Drink,4.75
+2025-09-15,110013,Caffè Latte,Drink,5.25
+2025-09-15,110014,Cold Brew,Drink,4.75
+2025-09-15,110015,Matcha Latte,Drink,10.9
+2025-09-15,110016,Croissant,Food,3.25
+2025-09-15,110017,Croissant,Food,3.25
+2025-09-15,110018,Americano,Drink,3.95
+2025-09-15,110019,Matcha Latte,Drink,10.9
+2025-09-15,110020,Americano,Drink,3.95
+2025-09-15,110021,Caramel Macchiato,Drink,5.95
+2025-09-15,110022,Matcha Latte,Drink,5.45
+2025-09-15,110023,Spinach Feta Wrap,Food,4.95
+2025-09-15,110024,Cold Brew,Drink,4.75
+2025-09-15,110025,Caramel Macchiato,Drink,5.95
+2025-09-15,110026,Turkey Pesto Panini,Food,6.95
+2025-09-15,110027,Matcha Latte,Drink,10.9
+2025-09-15,110028,Blueberry Muffin,Food,3.45
+2025-09-15,110029,Caramel Macchiato,Drink,5.95
+2025-09-15,110030,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,110031,Blueberry Muffin,Food,3.45
+2025-09-15,110032,Caffè Latte,Drink,5.25
+2025-09-15,110033,Cold Brew,Drink,4.75
+2025-09-15,110034,Matcha Latte,Drink,10.9
+2025-09-15,110035,Blueberry Muffin,Food,3.45
+2025-09-15,110036,Cold Brew,Drink,4.75
+2025-09-15,110037,Matcha Latte,Drink,5.45
+2025-09-15,110038,Caramel Macchiato,Drink,11.9
+2025-09-15,110039,Caffè Latte,Drink,10.5

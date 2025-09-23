@@ -1,0 +1,41 @@
+date,order_id,item,category,revenue
+2025-09-15,108000,Blueberry Muffin,Food,3.45
+2025-09-15,108001,Blueberry Muffin,Food,3.45
+2025-09-15,108002,Matcha Latte,Drink,5.45
+2025-09-15,108003,Caramel Macchiato,Drink,5.95
+2025-09-15,108004,Croissant,Food,3.25
+2025-09-15,108005,Matcha Latte,Drink,5.45
+2025-09-15,108006,Blueberry Muffin,Food,3.45
+2025-09-15,108007,Blueberry Muffin,Food,3.45
+2025-09-15,108008,Blueberry Muffin,Food,3.45
+2025-09-15,108009,Matcha Latte,Drink,5.45
+2025-09-15,108010,Matcha Latte,Drink,5.45
+2025-09-15,108011,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,108012,Spinach Feta Wrap,Food,4.95
+2025-09-15,108013,Matcha Latte,Drink,5.45
+2025-09-15,108014,Blueberry Muffin,Food,6.9
+2025-09-15,108015,Croissant,Food,3.25
+2025-09-15,108016,Blueberry Muffin,Food,3.45
+2025-09-15,108017,Spinach Feta Wrap,Food,4.95
+2025-09-15,108018,Caffè Latte,Drink,10.5
+2025-09-15,108019,Turkey Pesto Panini,Food,13.9
+2025-09-15,108020,Americano,Drink,3.95
+2025-09-15,108021,Cold Brew,Drink,4.75
+2025-09-15,108022,Croissant,Food,3.25
+2025-09-15,108023,Croissant,Food,3.25
+2025-09-15,108024,Blueberry Muffin,Food,3.45
+2025-09-15,108025,Croissant,Food,6.5
+2025-09-15,108026,Americano,Drink,3.95
+2025-09-15,108027,Pumpkin Spice Latte,Seasonal,6.25
+2025-09-15,108028,Caffè Latte,Drink,5.25
+2025-09-15,108029,Croissant,Food,3.25
+2025-09-15,108030,Spinach Feta Wrap,Food,9.9
+2025-09-15,108031,Americano,Drink,7.9
+2025-09-15,108032,Blueberry Muffin,Food,6.9
+2025-09-15,108033,Matcha Latte,Drink,5.45
+2025-09-15,108034,Croissant,Food,3.25
+2025-09-15,108035,Caffè Latte,Drink,5.25
+2025-09-15,108036,Caffè Latte,Drink,5.25
+2025-09-15,108037,Blueberry Muffin,Food,6.9
+2025-09-15,108038,Spinach Feta Wrap,Food,4.95
+2025-09-15,108039,Croissant,Food,3.25
